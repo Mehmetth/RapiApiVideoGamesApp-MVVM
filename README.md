@@ -4,6 +4,8 @@ This is a simple sample app which implemented using MVVM architecture, Retrofit2
 
 I used https://rapidapi.com/accujazz/api/rawg-video-games-database for the content of app with a simple UI.
 
+** Add your own google-services.json file to the project for firebase add-ons.
+
 ## Used libraries
 
 - [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
